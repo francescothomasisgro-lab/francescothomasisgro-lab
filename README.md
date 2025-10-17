@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Construction Project Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Power BI Dashboard for Construction Project Monitoring](https://github.com/francescothomasisgro-lab/Power-BI-Dashboard-for-Construction-Project-Monitoring)
 - <b>Data Center Analysis</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
