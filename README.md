@@ -1,6 +1,6 @@
 <h1>Hi, I'm Francesco Thomas Isgrò, a Project Manager by nature and a Data enthusiast by evolution! </h1>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Construction Project Analysis</b>
   - [Power BI Dashboard for Construction Project Monitoring](https://github.com/francescothomasisgro-lab/Power-BI-Dashboard-for-Construction-Project-Monitoring)
