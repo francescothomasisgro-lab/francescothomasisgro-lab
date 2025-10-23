@@ -9,13 +9,6 @@
 - Critical thinking & data-driven mindset
 - Problem-solving 
 
-👨‍💻 **Project Management**:
-- Agile/Scrum Methodologies
-- Project Planning, Scheduling, and Tracking (Jira, Trello)
-- Stakeholder Management & Team Collaboration
-- Risk Management & Resource Allocation
-- Budgeting, KPIs, and OKRs
-
 Let’s connect and collaborate on innovative data-driven solutions and impactful projects!
 
 <h2>🔍 Data Analysis Projects:</h2>
@@ -24,13 +17,6 @@ Let’s connect and collaborate on innovative data-driven solutions and impactfu
   - [Power BI Dashboard for Construction Project Monitoring](https://github.com/francescothomasisgro-lab/Power-BI-Dashboard-for-Construction-Project-Monitoring)
 - <b>Data Center Analysis</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-
-<h2>👨‍💻 Project Management Projects:</h2>
-
-- <b>Data Center Project Management </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>🏅 Certifications </h2>
 
