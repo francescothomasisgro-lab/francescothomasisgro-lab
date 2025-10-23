@@ -15,8 +15,6 @@ Let’s connect and collaborate on innovative data-driven solutions and impactfu
 
 - <b>Construction Project Analysis</b>
   - [Power BI Dashboard for Construction Project Monitoring](https://github.com/francescothomasisgro-lab/Power-BI-Dashboard-for-Construction-Project-Monitoring)
-- <b>Data Center Analysis</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>🏅 Certifications </h2>
 
