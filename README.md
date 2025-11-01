@@ -1,12 +1,12 @@
-<h1> Data-driven project management: I integrate data analysis in planning, cost control, risk and decision support to improve execution. </h1>
+<h1> Data-driven project management: I integrate data analysis in planning, cost control risk and decision support to improve execution. </h1>
 
 <h2> Core project management skills:</h2>
 
-• Scope definition and requirements translation
-• Cost analysis and cost control with data-driven baselines
-• Risk thinking as a first-class design principle
-• Stakeholder alignment through clear communication
-• Turning data into decisions to accelerate execution
+- Scope definition and requirements translation
+- Cost analysis and cost control with data-driven baselines
+- Risk thinking as a first-class design principle
+- Stakeholder alignment through clear communication
+- Turning data into decisions to accelerate execution
 
 Let’s connect and collaborate on innovative data-driven solutions and impactful projects!
 
