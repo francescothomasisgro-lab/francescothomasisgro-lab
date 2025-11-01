@@ -1,17 +1,16 @@
-<h1>Hi, I'm Francesco Thomas Isgrò, a Project Manager by nature and a Data enthusiast by evolution! </h1>
+<h1> Data-driven project management: I integrate data analysis in planning, cost control, risk and decision support to improve execution. </h1>
 
-<h2> My Skills:</h2>
+<h2> Core project management skills:</h2>
 
-🔍 **Data Analysis**:
-- Data Cleaning & Preprocessing (SQL)
-- Data Visualization (Power BI)
-- Strong analytical thinking 
-- Critical thinking & data-driven mindset
-- Problem-solving 
+• Scope definition and requirements translation
+• Cost analysis and cost control with data-driven baselines
+• Risk thinking as a first-class design principle
+• Stakeholder alignment through clear communication
+• Turning data into decisions to accelerate execution
 
 Let’s connect and collaborate on innovative data-driven solutions and impactful projects!
 
-<h2>🔍 Data Analysis Projects:</h2>
+<h2>🔍 Applying data analysis to project management: </h2>
 
 - <b>Construction Project Analysis</b>
   - [Power BI Dashboard for Construction Project Monitoring](https://github.com/francescothomasisgro-lab/Power-BI-Dashboard-for-Construction-Project-Monitoring)
