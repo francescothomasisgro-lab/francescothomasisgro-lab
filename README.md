@@ -10,7 +10,7 @@
 
 Let’s connect and collaborate on innovative data-driven solutions and impactful projects!
 
-<h2>🔍 Applying data analysis to project management: </h2>
+<h2>🔍 Applying data analysis to Cost Control: </h2>
 
 - <b>Construction Project Analysis</b>
   - [Power BI Dashboard for Construction Project Monitoring](https://github.com/francescothomasisgro-lab/Power-BI-Dashboard-for-Construction-Project-Monitoring)
